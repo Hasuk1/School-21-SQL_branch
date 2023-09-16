@@ -268,3 +268,7 @@ SELECT MIN(price) AS 'Минимальная цена' FROM table;
 ```
 SELECT MIN(price) AS 'Минимальная цена', price AS 'Цена' FROM table GROUP BY price;
 ```
+
+## Все основные операции
+
+![img](https://github.com/Hasuk1/base_cmd_SQL/blob/main/e6c95ccc-0a43-4d0e-8582-923e9b2f16a7.jpeg?raw=true)
