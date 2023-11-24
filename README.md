@@ -4,7 +4,7 @@
 
 |**Project**| **Status**|
 | ------ | ------ |
-| `SQL1` [Bootcamp]()|1500 XP, 100%|
+| `SQL1` [Bootcamp](https://github.com/Hasuk1/base_cmd_SQL/tree/main/src/Bootcamp)|1500 XP, 100%|
 | `SQL2` [Info21 v1.0]()|In progress|
 | `SQL2` [ReatailAnalytics v1.0]()|In progress|
 
